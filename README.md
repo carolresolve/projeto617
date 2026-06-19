@@ -1,8 +1,17 @@
 # projeto617
 
-Projeto de grupo da UC00617 - Git e GitHub.
+## Projeto publicado
 
-Cada equipa constrói um pequeno projeto web com uma página inicial e uma página pessoal por membro.
+O projeto encontra-se publicado no GitHub Pages e pode ser consultado em:
+
+https://carolresolve.github.io/projeto617/
+
+## Descrição
+
+O **projeto617** é um projeto de grupo desenvolvido da UC00617.
+
+Consiste num pequeno site desenvolvido em HTML e CSS, cujo principal objetivo foi colocar em prática a utilização do Git e do GitHub, através da criação de branches, realização de commits, utilização de Pull Requests e resolução de conflitos durante o desenvolvimento colaborativo.
+
 
 ## Estrutura inicial
 
