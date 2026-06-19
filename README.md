@@ -12,6 +12,26 @@ O **projeto617** é um projeto de grupo desenvolvido da UC00617.
 
 Consiste num pequeno site desenvolvido em HTML e CSS, cujo principal objetivo foi colocar em prática a utilização do Git e do GitHub, através da criação de branches, realização de commits, utilização de Pull Requests e resolução de conflitos durante o desenvolvimento colaborativo.
 
+## Equipa
+
+- Ana Carolina
+- Géssica Silva
+
+---
+
+## Páginas
+
+### `index.html`
+
+Página principal do projeto, onde são apresentados a equipa, a forma de trabalho, o objetivo do projeto e os links para as páginas pessoais.
+
+### `ana.html`
+
+Página pessoal da Ana Carolina, com informações sobre os seus gostos, interesses e preferências.
+
+### `gessica.silva.html`
+
+Página pessoal da Gessica Silva, com informações sobre os seus gostos, interesses e preferências.
 
 ## Estrutura inicial
 
